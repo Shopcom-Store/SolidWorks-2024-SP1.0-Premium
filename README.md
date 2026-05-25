@@ -10,6 +10,12 @@ https://www.shopcom.tn/product/solidworks-2024-sp1-0-premium/
 
 Product Price : 11,023 $
 
+Payment :
+https://www.shopcom.tn/payment
+
+Website :
+https://www.shopcom.tn
+
 Description :
 
 SolidWorks 2024 SP1.0 Premium is the latest major release of Dassault Systèmes' flagship mechanical CAD software, representing the first service pack for the 2024 version. It combines a mature, feature-rich 3D design environment with significant performance enhancements, cloud-connected collaboration tools, and specialized capabilities for simulation, data management, and manufacturing.
